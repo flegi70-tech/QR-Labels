@@ -1,0 +1,75 @@
+QR Labels – zásady ochrany soukromí / Privacy Policy
+Platnost od 24. října 2026 / Effective 24 October 2026
+Poznámka k použití: před zveřejněním doplň do hranatých závorek jméno vývojáře a kontaktní e-mail. Text vlož na jednoduchou webovou stránku (např. GitHub Pages) a její adresu zadej v App Store Connect jako URL zásad ochrany soukromí. Stejná stránka může sloužit jako URL podpory.
+Česky
+Zkráceně
+QR Labels neshromažďuje žádná osobní data, nevyžaduje účet, neobsahuje reklamy ani analytické nástroje a nic neodeslává na žádný server. Všechna data zůstávají jen v tvém zařízení.
+Kdo aplikaci provozuje
+[Pavel Zachar], kontakt: [pavel.zachar@icůoud.com]
+Jaká data aplikace pracuje
+Aplikace ukládá v tvém zařízení jen to, co sám zadáš:
+vytvořené štítky a jejich obsah (telefonní čísla, adresy, odkazy, kontakty, názvy Wi-Fi sítí, čísla účtů a částky plateb),
+krabice a seznamy věcí v nich včetně historie změn,
+šablony,
+volitelné osobní údaje (jméno, telefon, e-mail), které se předvyplňují do nových štítků.
+Hesla k Wi-Fi sítím se ukládají do systémové Klíčenky iOS. Ostatní data jsou uložena v úložišti aplikace v zařízení.
+Co aplikace nikam neodesílá
+Žádná data se neodesílají vývojáři ani třetím stranám. Aplikace neobsahuje reklamy, sledování, analytiku ani cizí knihovny, které by data sbíraly.
+Kdy data opustí aplikaci
+Pouze tehdy, když to součástí tvé vlastní akce:
+uložíš štítek do Fotek, vytiskneš ho nebo ho sdílíš jako obrázek či PDF,
+exportuješ zálohu do souboru .qrlabels a pošleš ji dál (např. přes AirDrop). Soubor zálohy obsahuje všechna data včetně hesel k Wi-Fi v čitelné podobě, proto ho posílej jen sobě nebo lidem, kterým věříš,
+předáš data jiné aplikaci přes systémové sdílení.
+Co se s daty stane poté, pošleš-li je dál, určuje příjemce nebo aplikace, kterou pro to zvolíš.
+Oprávnění a systémové funkce
+Fotky (jen přidávání): aplikace do Fotek pouze ukládá hotové štítky. Vaše fotky nenčítá.
+Připojení k Wi-Fi (Hotspot): aplikace se připojí k síti pouze po klepnutí na tlačítko a po potvrzení systémovým dialogem. Nesleduje ani nemění jiné sítě.
+Kontakty: funkce Přidat do kontaktů otevře systémové okno s předvyplněným kontaktem. Aplikace tvé kontakty nenačítá.
+Zkratky: tlačítka Otevřít Niimbot a Otevřít Smart Banku jen spustí tebou vytvořenou zkratku, žádná data se při tom nepředávají.
+Fotoaparát: aplikace sama QR kódy nesnímá a o přístup k fotoaparátu nežádá. QR kód krabice naskenuješ systémovou aplikací Fotoaparát, která pak otevře QR Labels.
+Zálohy zařízení
+Pokud máš zapnutou zálohu zařízení (iCloud nebo počítač), může systém iOS zařadit do zálohy i data aplikace. Tuto zálohu spravuje Apple a ty podle svých nastavení.
+Smazání dat
+Jednotlivé štítky, krabice a šablony smažeš přímo v aplikaci. Odinstalací aplikace se smaží všechna její data v zařízení. iOS může položky systémové Klíčenky po odinstalaci ponechat, aplikace je znovu použije po opakované instalaci.
+Děti
+Aplikace není určena dětem a žádná data o nich neshromažďuje.
+Změny zásad
+Pokud se způsob práce s daty změní, tyto zásady aktualizuji a upravím datum platnosti.
+Kontakt
+Pavel Zachar, pavel.zachar@icloud.com
+English
+In short
+QR Labels does not collect any personal data, requires no account, contains no ads or analytics, and sends nothing to any server. All data stays on your device.
+Who operates the app
+Pavel Zachar, contact: pavel.zachar@icloud.com
+What data the app works with
+The app stores on your device only what you enter yourself:
+labels you create and their contents (phone numbers, addresses, links, contacts, Wi-Fi network names, account numbers and payment amounts),
+boxes and the lists of items in them, including the change history,
+templates,
+optional personal details (name, phone, email) that are prefilled into new labels.
+Wi-Fi passwords are stored in the iOS system Keychain. All other data is stored in the app's storage on the device.
+What the app does not send anywhere
+No data is sent to the developer or to third parties. The app contains no ads, tracking, analytics or third-party libraries that collect data.
+When data leaves the app
+Only as part of an action you take yourself:
+you save a label to Photos, print it or share it as an image or PDF,
+you export a backup to a .qrlabels file and send it on (for example via AirDrop). The backup file contains all your data, including Wi-Fi passwords in readable form, so send it only to yourself or to people you trust,
+you pass data to another app through the system share sheet.
+What happens to the data after you send it on is determined by the recipient or the app you choose.
+Permissions and system features
+Photos (add only): the app only saves finished labels to Photos. It does not read your photos.
+Wi-Fi connection (Hotspot): the app joins a network only after you tap the button and confirm the system dialog. It does not monitor or change other networks.
+Contacts: the Add to contacts action opens the system sheet with a prefilled contact. The app does not read your contacts.
+Shortcuts: the Open Niimbot and Open Smart Banka buttons only run a shortcut that you created yourself. No data is passed along.
+Camera: the app does not scan QR codes itself and does not ask for camera access. You scan a box QR code with the system Camera app, which then opens QR Labels.
+Device backups
+If device backup is turned on (iCloud or computer), iOS may include the app's data in it. Apple manages this backup and you control it through your settings.
+Deleting data
+You can delete individual labels, boxes and templates directly in the app. Deleting the app removes all its data from the device. iOS may keep Keychain items after the app is deleted, and the app will use them again if you reinstall it.
+Children
+The app is not directed at children and does not collect any data about them.
+Changes to this policy
+If the way data is handled changes, I will update this policy and the effective date.
+Contact
+Pavel Zachar, pavel.zachar@icloud.com
